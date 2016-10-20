@@ -1,2 +1,2 @@
-# deep-learning-image-classification
-deep-learning-image-classification is a project designed to explore Tensorflow and convolutional neural networks, as well as machine learning techniques in general.
+# SVHN
+SVHN is an image classification project aimed to solve the problem of classifying digit sequences in images using the Street View House Number dataset (SVHN).
