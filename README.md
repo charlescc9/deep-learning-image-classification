@@ -3,7 +3,7 @@ SVHN is an image classification project aimed to solve the problem of classifyin
 
 ## Software Dependencies
 SVHN is written in Python 2.7 in a Jupyter notebook and uses several common software libraries, most notably TensorFlow. In order to run it, you  must install the follow dependecies:
-Jupyter
+[Jupyter] (http://jupyter.org/)
 TensorFlow
 Numpy
 Sklearn
@@ -22,3 +22,6 @@ As this project is educational in nature, there is also an accompanying report p
 
 ## Background
 This project assumes that the user has a basic understanding of machine learning principles and technics. There are many excellent tutorials one can use to get up to speed on these concepts. 
+
+### License
+This project uses the MIT License.
