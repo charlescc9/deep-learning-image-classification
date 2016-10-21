@@ -6,7 +6,7 @@ svhn is written in Python 2.7 in a Jupyter notebook and uses several common soft
 * [Python] (https://www.python.org/)
 * [Jupyter] (http://jupyter.org/)
 * [TensorFlow] (https://www.tensorflow.org/)
-* [Numpy] (http://www.numpy.org/)
+* [NumPy] (http://www.numpy.org/)
 * [scikit-learn] (http://scikit-learn.org/)
 * [Python Imaging Library] (http://www.pythonware.com/products/pil/)
 * [h5py] (http://www.h5py.org/)
