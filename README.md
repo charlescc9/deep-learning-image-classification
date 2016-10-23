@@ -16,7 +16,7 @@ svhn is written in Python 2.7 in a Jupyter notebook and uses several common soft
 The [SVHN] (http://ufldl.stanford.edu/housenumbers/) dataset is publicly available and comes in two forms: the original images of house numbers with multiple digits, and cropped images that only contain one digit apiece. This project uses the former dataset, as it represents the real world problem. In order to run the project, you must download the data and place it in the directory referenced in the first cell of the code.
 
 ## Computational Requirements
-As svhn trains a fairly deep convolutional neural network on a large amount of data, running it takes considerable computational resources. This is an unavoidable necessity when attempting to create deep learning models that perform well. If you do not have a powerful enough personal computer, one of two things may be done: either the number of epochs to train the model can be decreased, or you can run it on a more powerful cloud instance. I used an Amazon Web Services instance with GPU support.
+As svhn trains a fairly deep convolutional neural network on a large amount of data, running it takes considerable computational resources. This is an unavoidable necessity when attempting to create deep learning models that perform well. If you do not have a powerful enough personal computer, one of two things may be done: either the number of epochs to train the model can be decreased, or you can run it on a more powerful cloud instance.
 
 ## Accompanying Report
 As this project is educational in nature, there is also an accompanying report pdf (TODO) that thoroughly explains the project implementation as well as discusses its place in the deep learning field.
