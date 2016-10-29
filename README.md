@@ -19,7 +19,7 @@ The [SVHN] (http://ufldl.stanford.edu/housenumbers/) dataset is publicly availab
 As svhn trains a fairly deep convolutional neural network on a large amount of data, running it takes considerable computational resources. This is an unavoidable necessity when attempting to create deep learning models that perform well. If you do not have a powerful enough personal computer, one of two things may be done: either the number of epochs to train the model can be decreased, or you can run it on a more powerful cloud instance.
 
 ## Accompanying Report
-As this project is educational in nature, there is also an accompanying report pdf (TODO) that thoroughly explains the project implementation as well as discusses its place in the deep learning field.
+As this project is educational in nature, there is also an accompanying report pdf that thoroughly explains the project implementation as well as discusses its place in the deep learning field.
 
 ## Background
 This project assumes that the user has a basic understanding of machine learning principles and techniques. There are also a number of specific resources that I used when developing the deep learning model:
